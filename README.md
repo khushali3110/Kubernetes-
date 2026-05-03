@@ -1,7 +1,7 @@
-https://github.com/khushali3110/Kubernetes-.git
 
 <img width="816" height="543" alt="WhatsApp Image 2026-05-03 at 10 48 30 PM" src="https://github.com/user-attachments/assets/16d509d5-419e-4a19-b3cb-bcc387b3508f" />
 
+<img width="1600" height="653" alt="WhatsApp Image 2026-05-03 at 10 45 13 PM" src="https://github.com/user-attachments/assets/9dee9bd3-eb2b-4569-b7c6-cc38ccda480b" />
 
 Kubernetes + EKS: Final Project Documentation
 ☸️ Project Overview
